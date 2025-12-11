@@ -1,0 +1,15 @@
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/DataDrivenSolution/bin/Debug/net10.0/DataDrivenSolution
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/DataDrivenSolution/bin/Debug/net10.0/DataDrivenSolution.deps.json
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/DataDrivenSolution/bin/Debug/net10.0/DataDrivenSolution.runtimeconfig.json
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/DataDrivenSolution/bin/Debug/net10.0/DataDrivenSolution.dll
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/DataDrivenSolution/bin/Debug/net10.0/DataDrivenSolution.pdb
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/DataDrivenSolution/obj/Debug/net10.0/DataDrivenSolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/DataDrivenSolution/obj/Debug/net10.0/DataDrivenSolution.AssemblyInfoInputs.cache
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/DataDrivenSolution/obj/Debug/net10.0/DataDrivenSolution.AssemblyInfo.cs
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/DataDrivenSolution/obj/Debug/net10.0/DataDrivenSolution.csproj.CoreCompileInputs.cache
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/DataDrivenSolution/obj/Debug/net10.0/DataDrivenSolution.sourcelink.json
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/DataDrivenSolution/obj/Debug/net10.0/DataDrivenSolution.dll
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/DataDrivenSolution/obj/Debug/net10.0/refint/DataDrivenSolution.dll
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/DataDrivenSolution/obj/Debug/net10.0/DataDrivenSolution.pdb
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/DataDrivenSolution/obj/Debug/net10.0/DataDrivenSolution.genruntimeconfig.cache
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/DataDrivenSolution/obj/Debug/net10.0/ref/DataDrivenSolution.dll
