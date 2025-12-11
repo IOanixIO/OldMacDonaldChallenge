@@ -1,0 +1,15 @@
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/PolymorphismSolution/obj/Debug/net10.0/PolymorphismSolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/PolymorphismSolution/obj/Debug/net10.0/PolymorphismSolution.AssemblyInfoInputs.cache
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/PolymorphismSolution/obj/Debug/net10.0/PolymorphismSolution.AssemblyInfo.cs
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/PolymorphismSolution/obj/Debug/net10.0/PolymorphismSolution.csproj.CoreCompileInputs.cache
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/PolymorphismSolution/obj/Debug/net10.0/PolymorphismSolution.sourcelink.json
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/PolymorphismSolution/bin/Debug/net10.0/PolymorphismSolution
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/PolymorphismSolution/bin/Debug/net10.0/PolymorphismSolution.deps.json
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/PolymorphismSolution/bin/Debug/net10.0/PolymorphismSolution.runtimeconfig.json
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/PolymorphismSolution/bin/Debug/net10.0/PolymorphismSolution.dll
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/PolymorphismSolution/bin/Debug/net10.0/PolymorphismSolution.pdb
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/PolymorphismSolution/obj/Debug/net10.0/PolymorphismSolution.dll
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/PolymorphismSolution/obj/Debug/net10.0/refint/PolymorphismSolution.dll
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/PolymorphismSolution/obj/Debug/net10.0/PolymorphismSolution.pdb
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/PolymorphismSolution/obj/Debug/net10.0/PolymorphismSolution.genruntimeconfig.cache
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/PolymorphismSolution/obj/Debug/net10.0/ref/PolymorphismSolution.dll
