@@ -1,0 +1,15 @@
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/UserInputVersion/obj/Debug/net10.0/UserInputVersion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/UserInputVersion/obj/Debug/net10.0/UserInputVersion.AssemblyInfoInputs.cache
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/UserInputVersion/obj/Debug/net10.0/UserInputVersion.AssemblyInfo.cs
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/UserInputVersion/obj/Debug/net10.0/UserInputVersion.csproj.CoreCompileInputs.cache
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/UserInputVersion/obj/Debug/net10.0/UserInputVersion.sourcelink.json
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/UserInputVersion/bin/Debug/net10.0/UserInputVersion
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/UserInputVersion/bin/Debug/net10.0/UserInputVersion.deps.json
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/UserInputVersion/bin/Debug/net10.0/UserInputVersion.runtimeconfig.json
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/UserInputVersion/bin/Debug/net10.0/UserInputVersion.dll
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/UserInputVersion/bin/Debug/net10.0/UserInputVersion.pdb
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/UserInputVersion/obj/Debug/net10.0/UserInputVersion.dll
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/UserInputVersion/obj/Debug/net10.0/refint/UserInputVersion.dll
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/UserInputVersion/obj/Debug/net10.0/UserInputVersion.pdb
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/UserInputVersion/obj/Debug/net10.0/UserInputVersion.genruntimeconfig.cache
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/UserInputVersion/obj/Debug/net10.0/ref/UserInputVersion.dll
