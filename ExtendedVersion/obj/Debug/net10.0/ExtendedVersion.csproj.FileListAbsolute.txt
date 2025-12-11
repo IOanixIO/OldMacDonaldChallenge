@@ -1,0 +1,15 @@
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/ExtendedVersion/obj/Debug/net10.0/ExtendedVersion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/ExtendedVersion/obj/Debug/net10.0/ExtendedVersion.AssemblyInfoInputs.cache
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/ExtendedVersion/obj/Debug/net10.0/ExtendedVersion.AssemblyInfo.cs
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/ExtendedVersion/obj/Debug/net10.0/ExtendedVersion.csproj.CoreCompileInputs.cache
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/ExtendedVersion/obj/Debug/net10.0/ExtendedVersion.sourcelink.json
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/ExtendedVersion/bin/Debug/net10.0/ExtendedVersion
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/ExtendedVersion/bin/Debug/net10.0/ExtendedVersion.deps.json
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/ExtendedVersion/bin/Debug/net10.0/ExtendedVersion.runtimeconfig.json
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/ExtendedVersion/bin/Debug/net10.0/ExtendedVersion.dll
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/ExtendedVersion/bin/Debug/net10.0/ExtendedVersion.pdb
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/ExtendedVersion/obj/Debug/net10.0/ExtendedVersion.dll
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/ExtendedVersion/obj/Debug/net10.0/refint/ExtendedVersion.dll
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/ExtendedVersion/obj/Debug/net10.0/ExtendedVersion.pdb
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/ExtendedVersion/obj/Debug/net10.0/ExtendedVersion.genruntimeconfig.cache
+/Users/andrej/RiderProjects/OldMacDonaldChallenge/ExtendedVersion/obj/Debug/net10.0/ref/ExtendedVersion.dll
